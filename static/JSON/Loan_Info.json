@@ -1,0 +1,11 @@
+{
+	"Loan_Interval": 10000,
+	"Loan_Max": 80000,
+	"Loan_Min": 10000,
+	"Year_Interval": 1,
+	"Year_Max": 5,
+	"Year_Min": 1,
+	"Interest_Rate_Interval": "0.005",
+	"Interest_Rate_Max": "0.01",
+	"Interest_Rate_Min": "0.05",
+}
